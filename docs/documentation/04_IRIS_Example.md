@@ -3,7 +3,7 @@ layout: page
 title: Example Analysis
 description: ~
 ---
-This tutorial is the example analysis with IRIS on the 10x Visium human dorsolateral pre-frontal cortex (DLPFC) spatial transcriptomics data from [Maynard et al, 2021](https://www.nature.com/articles/s41593-020-00787-0). Before running the tutorial, please make sure that the IRIS package was installed. Installation instructions see the [link](https://yingma0107.github.io/IRIS/documentation/02_installation.html)
+This tutorial is the example analysis with IRIS on the 10x Visium human dorsolateral pre-frontal cortex (DLPFC) spatial transcriptomics data from [Maynard et al, 2021](https://www.nature.com/articles/s41593-020-00787-0). Before running the tutorial, please make sure that the IRIS package was installed. Installation instructions see the [link](https://YMa-lab.github.io/IRIS/documentation/02_installation.html)
 
 ## Required input data
 `IRIS` requires two types of input data:
