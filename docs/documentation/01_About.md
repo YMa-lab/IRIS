@@ -11,7 +11,7 @@ Ma Y, Zhou X. Accurate and efficient integrative reference-informed spatial doma
 
 Contact
 -------------------
-if you have questions, feel free to leave messages on the [github issues](https://github.com/YingMa1993/IRIS/issues) 
+if you have questions, feel free to leave messages on the [github issues](https://github.com/YMa-lab/IRIS/issues) 
 
 
 
