@@ -40,4 +40,4 @@ Ying Ma and Xiang Zhou. Integrative and Reference-Informed Spatial Domain Detect
 
 How to use `IRIS`
 -------------------
-Details in [Tutorial](https://yingma0107.github.io/IRIS/)
+Details in [Tutorial](https://YMa-lab.github.io/IRIS/)
