@@ -3,7 +3,7 @@ name: IRIS
 
 project:
   version: 1.0.0
-  download_url: https://github.com/YingMa0107/IRIS/
+  download_url: https://github.com/YMa-lab/IRIS/
   download_text: Download
 
 license:
@@ -15,20 +15,20 @@ links:
     - title: GitHub
       icon: github
       brand: true
-      url: https://github.com/YingMa0107/IRIS/
+      url: https://github.com/YMa-lab/IRIS/
   homepage:
     - title: View on GitHub
       icon: github
       brand: true
-      url: https://github.com/YingMa0107/IRIS/
+      url: https://github.com/YMa-lab/IRIS/
   footer:
     - title: GitHub
       icon: github
       brand: true
-      url: https://github.com/YingMa0107/IRIS/
+      url: https://github.com/YMa-lab/IRIS/
     - title: Issues
       icon: bug
-      url: https://github.com/YingMa0107/IRIS/issues?state=open
+      url: https://github.com/YMa-lab/IRIS/issues?state=open
 
 ui:
   mode: 'auto' # 'auto', 'dark', 'light'
